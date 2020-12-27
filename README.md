@@ -13,6 +13,7 @@
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sabesan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -31,3 +32,4 @@
 [facebook]: https://www.facebook.com/sasini.sandamali.1
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/sasini-sandamali-bab7611a7/
+[stackoverflow]:https://stackoverflow.com/users/14886269/ms-sandamali-b-g-s-s
