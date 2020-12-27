@@ -30,6 +30,6 @@
 
 [twitter]: https://twitter.com/SasiniB
 [facebook]: https://www.facebook.com/sasini.sandamali.1
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/sasinisandamali/
 [linkedin]: https://www.linkedin.com/in/sasini-sandamali-bab7611a7/
 [stackoverflow]:https://stackoverflow.com/users/14886269/ms-sandamali-b-g-s-s
