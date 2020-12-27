@@ -27,7 +27,7 @@
 
 ---
 
-[twitter]: https://twitter.com/
-[facebook]: https://www.facebook.com/
+[twitter]: https://twitter.com/SasiniB
+[facebook]: https://www.facebook.com/sasini.sandamali.1
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/sasini-sandamali-bab7611a7/
