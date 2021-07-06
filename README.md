@@ -12,7 +12,7 @@
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />][dribble]
+[<img align="left" alt="Sabesan | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Sabesan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
@@ -30,6 +30,6 @@
 
 [twitter]: https://twitter.com/SasiniB
 [facebook]: https://www.facebook.com/sasini.sandamali.1
-[instagram]: https://www.behance.com/sasinisandamali/
+[behance]: https://www.behance.com/sasinisandamali/
 [linkedin]: https://www.linkedin.com/in/sasini-sandamali-bab7611a7/
 [stackoverflow]:https://stackoverflow.com/users/14886269/ms-sandamali-b-g-s-s
