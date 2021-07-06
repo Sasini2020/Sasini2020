@@ -13,7 +13,7 @@
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Sabesan | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />][dribble]
+[<img align="left" alt="Sabesan | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="Sabesan | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 
 <br />
@@ -33,5 +33,5 @@
 [facebook]: https://www.facebook.com/sasini.sandamali.1
 [linkedin]: https://www.linkedin.com/in/sasini-sandamali-bab7611a7/
 [stackoverflow]:https://stackoverflow.com/users/14886269/ms-sandamali-b-g-s-s
-[dribble]: https://dribbble.com/Sasini-Sandamali
+[dribbble]: https://dribbble.com/Sasini-Sandamali
 [behance]: https://www.behance.net/mssandamalibgss/
