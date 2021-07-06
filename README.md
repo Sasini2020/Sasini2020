@@ -21,11 +21,11 @@
 ---
 
 
-<a href="https://github.com/Sasini2020">
+<!-- <a href="https://github.com/Sasini2020">
 <img align="center" alt="Sasini's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sasini2020&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/Sasini2020">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sasini2020&layout=compact&theme=radical" />
-</a>
+</a> -->
 
 ---
 
