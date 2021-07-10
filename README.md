@@ -1,6 +1,6 @@
 ### Hi there, I'm Sasini 👋
 
-## I'm an Undergraduate.
+## I'm an Computer Science Undergraduate.
 
 - 🔭 I’m currently working on my 3rd year group project!
 - 👯 I’m looking to collaborate with other content creators
