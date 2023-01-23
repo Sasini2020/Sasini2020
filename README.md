@@ -2,9 +2,9 @@
 
 ## I'm a Computer Science Undergraduate.
 
-- 🔭 I’m currently working on my 3rd year group project!
+- 🔭 I’m currently working at home!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to software projects
+- 🥅 2023 Goals: Contribute more to software projects
 - ⚡ Fun fact: I love to read books and listen music.
 
 ### Connect with me:
